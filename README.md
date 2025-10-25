@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub Profile!
 
-<!--
-**qianyu0415/qianyu0415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hi, I'm **Qianyu Wang**, a student at **Harbin Institute of Technology** (2022 - 2026), currently working in the **HIT-SCIR (Research Center for Social Computing and Interactive Robotics)**. As a beginner, I'm passionate about diving deeper into AI, experimenting with new ideas, and learning from the community!
 
-Here are some ideas to get you started:
+I love connecting with others to share knowledge, discuss innovative ideas, and collaborate on exciting projects. Feel free to reach out!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Interests
+- Natural Language Processing (NLP)
+- Agentic Reinforcement Learning (Agentic RL)
+
+## 📫 Let's Connect!
+- 📧 Email: qywang@ir.hit.edu.cn
