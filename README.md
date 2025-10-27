@@ -10,4 +10,4 @@ As a beginner, I'm passionate about diving deeper into AI, experimenting with ne
 - Agentic Reinforcement Learning (Agentic RL)
 
 ## 📫 Let's Connect!
-- 📧 Email: 2022111570@stu.hit.edu.cn
+- 📧 Email: qywang@ir.hit.edu.cn
